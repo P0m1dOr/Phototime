@@ -210,7 +210,7 @@ h1, p {
 }
 
 .part-4 {
-    background-image: url(../image/bg-4.jpg);
+    background-image: url(../image/bg-4.jpg) no-repeat;
     background-size: cover;
     padding-top: 400px;
     padding-bottom: 370px;
